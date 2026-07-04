@@ -1,6 +1,6 @@
 # Rimus Asset License
 
-Copyright (c) 2026 Nikola Rogulja
+Copyright (c) 2026 Nikola R.
 
 All Rights Reserved.
 
