@@ -1,4 +1,4 @@
-﻿# Rimus v0.6 Open Beta
+# Rimus v0.6 Beta
 
 Static GitHub Pages web version.
 
