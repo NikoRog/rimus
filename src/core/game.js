@@ -1,0 +1,1 @@
+export function createFreshGame(mode,totalRounds){return {mode,round:0,prompt:null,recentT:[],recentR:[],recentTpl:[],recentS:[],recentSub:[],recentOpen:[],recentScene:[],recentRole:[],wordI:0,wordHelp:false,sentHelp:false,sentShown:false,defShown:false,lives:3,players:[],turn:0,total:totalRounds,over:false,timer:null,start:0,penalty:0,last:mode}}

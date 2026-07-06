@@ -1,0 +1,93 @@
+Rimus prompt templates - v0.6.2
+
+Core rule:
+- The highlighted rhyme word is the final meaningful word in the sentence.
+- The player rhymes with that final highlighted word.
+
+Template variables:
+- {ref} = the topic node, for example Grammar, Cinema, Biceps, Tennis.
+- {target} = the highlighted final rhyme word.
+- {person} = person / sentence subject.
+- {object} = object / thing.
+- {place} = place / setting.
+- {action} = verb / action.
+- {mood} = mood / adjective.
+- {adverb} = how something happens.
+
+Place / setting target templates:
+- {person} found the {object} near the {target}.
+- {person} had to {action} {adverb} across the {target}.
+- {ref} started when {person} entered the {target}.
+- {person} dropped the {object} beside the {target}.
+- The whole {ref} scene moved toward the {target}.
+- {person} tried to {action} before reaching the {target}.
+- {ref} made everyone look at the {target}.
+- {person} kept the {object} hidden at the {target}.
+
+Person / subject target templates:
+- The {object} was handed to the {target}.
+- {ref} changed when {person} followed the {target}.
+- {person} waited for the {target}.
+- The {place} went quiet around the {target}.
+- {person} could not ignore the {target}.
+- {ref} gave the next turn to the {target}.
+- {adverb}, the {object} pointed back to the {target}.
+- The final clue belonged to the {target}.
+
+Object / thing target templates:
+- {person} tried to {action} with the {target}.
+- {ref} became clear after finding the {target}.
+- {person} passed around the {target}.
+- The {place} was built around the {target}.
+- {person} talked {adverb} about the {target}.
+- The next rhyme came from the {target}.
+- {person} left a mark on the {target}.
+- {person} stared at the {target}.
+
+Verb / action target templates:
+- {person} had no choice but to {target}.
+- {person} in {ref} wanted to {target}.
+- The {object} made {person} try to {target}.
+- At the {place}, the plan was to {target}.
+- {person} moved {adverb} and started to {target}.
+- The crowd shouted for {person} to {target}.
+- The round changed when {person} chose to {target}.
+- {ref} made it hard to {target}.
+
+Mood / adjective target templates:
+- The {place} suddenly felt {target}.
+- {person} made the whole room feel {target}.
+- The {object} turned the moment {target}.
+- {ref} became strangely {target}.
+- {person} grew more {target}.
+- The next rhyme sounded {target}.
+- {person} went quiet and {target}.
+- That {ref} moment landed {target}.
+
+Adverb / how target templates:
+- {person} used the {object} {target}.
+- {person} watched the room move {target}.
+- The {place} changed when {person} acted {target}.
+- {ref} made the whole group react {target}.
+- The next line had to land {target}.
+- {person} tried to {action} {target}.
+
+Knowledge system:
+- 14 subjects.
+- 6 domain/knowledge nodes per subject.
+- 150-200 curated items per subject target range.
+- Current packs contain role vocab, definitions, facts, and subject templates inside each node.
+- Each subject has its own file in `src/content/subjects/`.
+- Each subject file contains nodes with id, topic, scene, people, places, objects, actions, moods, adverbs, definitions, facts, and role-specific templates.
+- Each node pulls from subject-specific word pools for places, people, objects, actions, moods, and adverbs.
+- Definitions explain the highlighted target word in that subject.
+- Facts add a short learning note without slowing the game down.
+- Subject-specific templates are used first; generic templates are fallback only.
+- The prompt generator rejects lines where the target is not the final meaningful word or appears more than once.
+
+Custom words:
+- Custom words can be place/setting, sentence subject/person, object/thing, verb/action, mood/adjective, or adverb/how.
+- Custom words can appear in any subject.
+- Non-target placeholders have about a 36% chance to use a matching custom word.
+- A sentence can use multiple custom words if their types match available slots.
+- The final highlighted target still stays the rhyme word.

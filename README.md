@@ -1,4 +1,4 @@
-# Rimus v0.6 Beta
+# Rimus v0.6.2 Beta
 
 Static GitHub Pages web version.
 
@@ -50,3 +50,4 @@ See ASSETS_LICENSE.md for details.
 - Pre-split backup: `backups/index-before-rimus-site-split.html`
 - v0.6 foundation backup: `backups/index-v0.6-foundation-backup.html`
 - Archived old modular attempt: `_archive/unused-pre-v0.6-foundation/`
+
