@@ -84,7 +84,12 @@ function relationshipPrompt(pack, node, entity) {
     fallbackUsed: false
   };
   return {
+    source: 'reference',
     subject: pack.id,
+    subjectId: pack.id,
+    nodeId: node.id,
+    packId: pack.id,
+    sourceEntityId: entity.id,
     ref: node.label,
     scene: node.label,
     target,
@@ -127,7 +132,12 @@ function factPrompt(pack, node, entity) {
     fallbackUsed: false
   };
   return {
+    source: 'reference',
     subject: pack.id,
+    subjectId: pack.id,
+    nodeId: node.id,
+    packId: pack.id,
+    sourceEntityId: entity.id,
     ref: node.label,
     scene: node.label,
     target,

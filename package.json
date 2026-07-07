@@ -1,6 +1,10 @@
 ﻿{
   "type": "module",
   "scripts": {
-    "serve": "python -m http.server 4173"
+    "serve": "python -m http.server 4173",
+    "validate:packs": "node scripts/validate-packs.mjs",
+    "validate:content": "node scripts/validate-content.mjs",
+    "test:prompts": "node scripts/test-prompts.mjs",
+    "test:stability": "node scripts/test-stability.mjs"
   }
 }

@@ -1,9 +1,12 @@
 import { buildLocalRhymes, buildNodes } from './subjects/_packTools.js';
 import { SUBJECT_PACKS } from './subjects/index.js';
+import { attachPack01Content, getPack01DebugSummary } from './pack01/adapter.js';
 
-export const SUBJECTS = SUBJECT_PACKS.map(({ id, name }) => ({ id, name, emoji: '' }));
+export const SUBJECT_PACKS_WITH_PACK01 = attachPack01Content(SUBJECT_PACKS);
 
-export const NODES = SUBJECT_PACKS.flatMap(buildNodes);
+export const SUBJECTS = SUBJECT_PACKS_WITH_PACK01.map(({ id, name }) => ({ id, name, emoji: '' }));
+
+export const NODES = SUBJECT_PACKS_WITH_PACK01.flatMap(buildNodes);
 
 export const TEMPLATES = [
   ['places', '{person} found the {object} near the {target}.'],
@@ -54,6 +57,8 @@ export const TEMPLATES = [
   ['adverbs', '{person} tried to {action} {target}.']
 ];
 
-export const LOCAL = buildLocalRhymes(SUBJECT_PACKS);
+export const LOCAL = buildLocalRhymes(SUBJECT_PACKS_WITH_PACK01);
 
-export { SUBJECT_PACKS };
+export const PACK01_DEBUG = getPack01DebugSummary();
+
+export { SUBJECT_PACKS_WITH_PACK01 as SUBJECT_PACKS };
