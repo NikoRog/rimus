@@ -1,1 +1,1 @@
-export function createInitialState(){return {mode:0,beat:1,subjects:['random'],players:[{name:'Player 1'},{name:'Player 2'}],rounds:10,game:null,queue:[],apiChecked:false,api:{datamuse:'standby',conceptnet:'browser blocked',wikipedia:'standby',wikidata:'standby',cache:'loaded'}}}
+export function createInitialState(){return {mode:0,beat:1,subjects:['random'],players:[{name:'Player 1'},{name:'Player 2'}],rounds:10,game:null,queue:[]}}

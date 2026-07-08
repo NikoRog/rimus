@@ -1,1 +1,0 @@
-export async function fetchTO(url,ms=2600){let c=new AbortController(),t=setTimeout(()=>c.abort(),ms);try{let r=await fetch(url,{signal:c.signal});clearTimeout(t);if(!r.ok)throw Error(r.status);return await r.json()}catch(e){clearTimeout(t);throw e}}

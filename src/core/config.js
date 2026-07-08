@@ -1,4 +1,4 @@
-export const APP_VERSION='0.6.2';
+export const APP_VERSION='0.6b';
 export const MODES=[['survival','Survival'],['freeplay','Free Play'],['rivals','Rivals']],BEATS=[['slow','Slow / Lo-fi'],['medium','Medium / Classic'],['fast','Fast / DnB']];
 export const GAME_CONFIG={queue:20,minLoad:450,maxLoad:2200,coins:10,subjectPrice:100,startCoins:200,candidateLimit:24};
 
