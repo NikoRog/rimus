@@ -1,0 +1,139 @@
+PERSON
+NAME=Michael Jackson
+CATEGORY=music_legends
+SNTC01=Sonic music and dreams of becoming a Spider-Man actor
+SNTC02=Bubbles the chimp had his own hired protector
+WORKS=Thriller|Billie Jean|Beat It|Smooth Criminal
+
+PERSON
+NAME=Freddie Mercury
+CATEGORY=music_legends
+SNTC01=never passed his driving test, but still sang about his bike
+SNTC02=champion boxer at school, then wrote the songs we like
+WORKS=Bohemian Rhapsody|We Will Rock You|Somebody to Love
+
+PERSON
+NAME=David Bowie
+CATEGORY=music_legends
+SNTC01=in Labyrinth, he ruled as the Goblin King
+SNTC02=in Malaysia, a yellow spider was named after him
+WORKS=Space Oddity|Heroes|Starman
+
+PERSON
+NAME=Elton John
+CATEGORY=music_legends
+SNTC01=bought an English football club and glasses by the masses
+SNTC02=made the soundtrack for The Lion King, loved by the masses
+WORKS=Rocket Man|Tiny Dancer|I'm Still Standing
+
+PERSON
+NAME=Prince
+CATEGORY=music_legends
+SNTC01=spaghetti with orange juice was one of his favorite tastes
+SNTC02=shot some hoops, then served up blueberry pancakes
+WORKS=Purple Rain|Kiss|When Doves Cry
+
+PERSON
+NAME=Eminem
+CATEGORY=music_legends
+SNTC01=an otherworldly comic-book collection
+SNTC02=for the Donkey Kong leaderboard, he had an obsession
+WORKS=Lose Yourself|Stan|Rap God
+
+PERSON
+NAME=Kanye West
+CATEGORY=music_legends
+SNTC01=The Jetsons and other movies fed his fixation
+SNTC02=fame, fortune, controversy—but he still made Graduation
+WORKS=Stronger|Gold Digger|Heartless
+
+PERSON
+NAME=Bob Marley
+CATEGORY=music_legends
+SNTC01=survived an assassination attempt, a real life changer
+SNTC02=refused to abandon Jamaica despite the danger
+WORKS=No Woman, No Cry|One Love|Three Little Birds
+
+PERSON
+NAME=Ricky Martin
+CATEGORY=music_legends
+SNTC01=voiced Hercules in Spanish, taking Disney's hero role
+SNTC02=joined Menudo at twelve and landed on the payroll
+WORKS=Livin' la Vida Loca|She Bangs|María
+
+PERSON
+NAME=Hans Zimmer
+CATEGORY=music_legends
+SNTC01=barely reads sheet music, but a jingle he can make
+SNTC02=built a studio at home so no commute he had to take
+WORKS=Interstellar|The Lion King|Pirates of the Caribbean
+
+PERSON
+NAME=Mozart
+CATEGORY=music_legends
+SNTC01=a pet starling learned his melodies and kept them in its mind
+SNTC02=made cat noises and toilet jokes of every kind
+WORKS=The Magic Flute|Requiem|Eine kleine Nachtmusik
+
+PERSON
+NAME=Beethoven
+CATEGORY=music_legends
+SNTC01=continued composing when his hearing was nearly dead
+SNTC02=counted sixty coffee beans and poured water on his head
+WORKS=Symphony No. 5|Symphony No. 9|Für Elise
+
+PERSON
+NAME=Louis Armstrong
+CATEGORY=music_legends
+SNTC01=carried homemade chili almost everywhere
+SNTC02=promoted Swiss Kriss laxatives like he didn't care
+WORKS=What a Wonderful World|Hello, Dolly!|La Vie en Rose
+
+PERSON
+NAME=B.B. King
+CATEGORY=music_legends
+SNTC01=every guitar he owned was named Lucille
+SNTC02=ran into a burning club to save one for real
+WORKS=The Thrill Is Gone|Every Day I Have the Blues|Lucille
+
+PERSON
+NAME=PSY
+CATEGORY=music_legends
+SNTC01=rich kid from Seoul, dropped out in the States to pursue rap
+SNTC02=Gangnam Style put Korean music on the map
+WORKS=Gangnam Style|Gentleman|Daddy
+
+PERSON
+NAME=Hikaru Utada
+CATEGORY=music_legends
+SNTC01=beat twenty-six challengers in a Tetris show
+SNTC02=paused pop-star life for human activities and took things slow
+WORKS=Simple and Clean|First Love|Face My Fears
+
+PERSON
+NAME=Daft Punk
+CATEGORY=music_legends
+SNTC01=claimed a studio explosion turned them into robots one day
+SNTC02=premiered an album in a tiny town called Wee Waa, far away
+WORKS=One More Time|Harder Better Faster Stronger|Get Lucky
+
+PERSON
+NAME=Johnny Cash
+CATEGORY=music_legends
+SNTC01=accidentally started a forest fire with his truck
+SNTC02=cracked Soviet military code before musical fame struck
+WORKS=Ring of Fire|Hurt|Folsom Prison Blues
+
+PERSON
+NAME=Aretha Franklin
+CATEGORY=music_legends
+SNTC01=refused to fly, so crossed the country by bus
+SNTC02=kept her cash-filled purse on the piano, no fuss
+WORKS=Respect|Think|(You Make Me Feel Like) A Natural Woman
+
+PERSON
+NAME=Taylor Swift
+CATEGORY=music_legends
+SNTC01=picked praying-mantis eggs from Christmas trees on the farm
+SNTC02=hid secret messages in her lyrics like a lucky charm
+WORKS=Love Story|Blank Space|Shake It Off

@@ -4,14 +4,14 @@ export const HOW_TO_PLAY_SEEN_KEY = 'rimus_how_to_play_seen';
 
 export const HOW_TO_PLAY = {
   title: 'Welcome to Rimus',
-  body: 'Create a new sentence that rhymes with the highlighted word.',
+  body: 'Read the prompt, then say a line that rhymes with the final word.',
   gameExample: 'Yo momma is really cool.',
   playerExample: 'She thinks you are a fool.',
-  continueText: 'When everyone agrees, tap the card to continue.',
+  continueText: 'When everyone agrees, tap I Got It to continue.',
   steps: [
     'Read the sentence.',
-    'Rhyme with the highlighted word.',
-    'Tap the card when the group accepts it.'
+    'Rhyme with the final word.',
+    'Tap I Got It when the group accepts it.'
   ]
 };
 

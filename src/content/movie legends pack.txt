@@ -1,0 +1,132 @@
+PERSON
+NAME=Alfred Hitchcock
+CATEGORY=movie_legends
+SNTC01=he is the master of suspense
+SNTC02=scared of eggs, it made no sense
+WORKS=Psycho|North by Northwest|Vertigo
+
+PERSON
+NAME=Christopher Nolan
+CATEGORY=movie_legends
+SNTC01=Emma Thomas helps produce every show
+SNTC02=he bends the timeline wherever you go
+WORKS=Oppenheimer|Interstellar|Inception|The Dark Knight
+
+PERSON
+NAME=Rowan Atkinson
+CATEGORY=movie_legends
+SNTC01=mastered electrical engineering at school
+SNTC02=his garage is packed with cars so cool
+WORKS=Mr. Bean|Johnny English|Blackadder
+
+PERSON
+NAME=Akira Kurosawa
+CATEGORY=movie_legends
+SNTC01=inspired Star Wars from long ago
+SNTC02=his crew called him "The Emperor"
+WORKS=Seven Samurai|Rashomon|Ikiru|Yojimbo
+
+PERSON
+NAME=Hayao Miyazaki
+CATEGORY=movie_legends
+SNTC01=retired three times, then came right back
+SNTC02=sketches airplanes by the stack
+WORKS=Spirited Away|My Neighbor Totoro|The Boy and the Heron
+
+PERSON
+NAME=Jackie Chan
+CATEGORY=movie_legends
+SNTC01=adopted two pandas, he's a huge fan
+SNTC02=Bruce Lee's stuntman, that's how he began
+WORKS=Rush Hour|Drunken Master|Police Story|Project A
+
+PERSON
+NAME=Wong Kar-wai
+CATEGORY=movie_legends
+SNTC01=neon lights shine wherever he goes
+SNTC02=sunglasses indoors, nobody knows
+WORKS=In the Mood for Love|Chungking Express|2046|Fallen Angels
+
+PERSON
+NAME=Bong Joon-ho
+CATEGORY=movie_legends
+SNTC01=first foreign film to win Best Picture
+SNTC02=dark jokes hide inside every thriller
+WORKS=Parasite|Memories of Murder|The Host|Snowpiercer
+
+PERSON
+NAME=Takeshi Kitano
+CATEGORY=movie_legends
+SNTC01=Takeshi's Castle made everyone fall
+SNTC02=tap dancing became his second call
+WORKS=Hana-bi|Zatoichi|Sonatine|Kikujiro
+
+PERSON
+NAME=Guillermo del Toro
+CATEGORY=movie_legends
+SNTC01=monsters fill every room in his home
+SNTC02=notebooks packed with creatures that roam
+WORKS=Pan's Labyrinth|Pacific Rim|Hellboy|The Shape of Water
+
+PERSON
+NAME=Wagner Moura
+CATEGORY=movie_legends
+SNTC01=Pablo Escobar made him world renowned
+SNTC02=learned Spanish before filming began
+WORKS=Narcos|Elite Squad|Civil War|Puss in Boots: The Last Wish
+
+PERSON
+NAME=Peter Jackson
+CATEGORY=movie_legends
+SNTC01=Middle-earth became his greatest quest
+SNTC02=restoring old warplanes is what he likes best
+WORKS=The Lord of the Rings|The Hobbit|King Kong
+
+PERSON
+NAME=Taika Waititi
+CATEGORY=movie_legends
+SNTC01=voiced Korg with a face made of stone
+SNTC02=vampires made chaos feel just like home
+WORKS=Jojo Rabbit|Thor: Ragnarok|What We Do in the Shadows|Hunt for the Wilderpeople
+
+PERSON
+NAME=Dev Patel
+CATEGORY=movie_legends
+SNTC01=earned a black belt long before the fame
+SNTC02=Monkey Man let him direct the game
+WORKS=Slumdog Millionaire|Lion|The Green Knight|Monkey Man
+
+PERSON
+NAME=Irrfan Khan
+CATEGORY=movie_legends
+SNTC01=from Bollywood all the way to the West
+SNTC02=philosophy books he loved the best
+WORKS=Life of Pi|The Lunchbox|Jurassic World|Inferno
+
+PERSON
+NAME=Tom Hanks
+CATEGORY=movie_legends
+SNTC01=old typewriters cover every shelf
+SNTC02=Forrest kept on running by himself
+WORKS=Forrest Gump|Toy Story|Cast Away|Saving Private Ryan
+
+PERSON
+NAME=Steven Spielberg
+CATEGORY=movie_legends
+SNTC01=snuck inside Universal before he had a pass
+SNTC02=got rejected twice, now they study his class
+WORKS=Schindler's List|E.T.|Jurassic Park|Jaws
+
+PERSON
+NAME=David Lynch
+CATEGORY=movie_legends
+SNTC01=coffee and cherry pie every day
+SNTC02=even his nightmares lose their way
+WORKS=Twin Peaks|Mulholland Drive|Blue Velvet|Eraserhead
+
+PERSON
+NAME=Edgar Wright
+CATEGORY=movie_legends
+SNTC01=zombies got him George Romero's praise
+SNTC02=Cornetto ice cream filled his craze
+WORKS=Shaun of the Dead|Hot Fuzz|Baby Driver|Scott Pilgrim vs. the World

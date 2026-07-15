@@ -1,0 +1,247 @@
+##################################################
+# RIMUS LEARNING PACK 01
+##################################################
+
+[SOUND_GROUP]
+id=-AT
+difficulty=easy
+words=cat,hat,bat,rat,mat,fat,sat,pat,flat,chat
+
+sentences=
+The cat wears a ___.
+I found a ___.
+Look at that ___.
+He sat on the ___.
+A little ___ ran away.
+
+[SOUND_GROUP]
+id=-AN
+difficulty=easy
+words=man,can,fan,pan,van,ran,tan,plan,scan,than
+
+sentences=
+The ___ is blue.
+I have a ___.
+We made a ___.
+The ___ is hot.
+He ___ very fast.
+
+[SOUND_GROUP]
+id=-OG
+difficulty=easy
+words=dog,log,frog,fog,hog,jog,clog,smog,blog,bog
+
+sentences=
+The ___ can bark.
+There is thick ___.
+I saw a green ___.
+We found a ___.
+Go for a ___.
+
+[SOUND_GROUP]
+id=-AKE
+difficulty=easy
+words=cake,bake,lake,make,take,shake,snake,wake,brake,rake
+
+sentences=
+Let's ___ a cake.
+The ___ is beautiful.
+I saw a ___.
+Don't forget to ___.
+Leaves need a ___.
+
+[SOUND_GROUP]
+id=-AY
+difficulty=easy
+words=day,play,say,way,stay,pay,may,gray,clay,tray
+
+sentences=
+Today is a nice ___.
+Let's go ___.
+Show me the ___.
+Please ___ here.
+Put it on the ___.
+
+[SOUND_GROUP]
+id=-EE
+difficulty=easy
+words=bee,tree,see,free,three,key,knee,tea,sea,me
+
+sentences=
+I can ___ you.
+The ___ is tall.
+Give me the ___.
+Let's drink ___.
+One, two, ___.
+
+[SOUND_GROUP]
+id=-IGHT
+difficulty=easy
+words=light,night,right,fight,sight,bright,flight,might,tight,white
+
+sentences=
+Turn on the ___.
+Good ___.
+That is ___.
+The room is ___.
+The shirt is ___.
+
+[SOUND_GROUP]
+id=-OOK
+difficulty=easy
+words=book,look,cook,hook,shook,brook,notebook,cookbook,overlook,outlook
+
+sentences=
+Read a ___.
+Come and ___.
+Please ___ dinner.
+Use the ___.
+Open your ___.
+
+[SOUND_GROUP]
+id=-UN
+difficulty=easy
+words=sun,fun,run,bun,gun,nun,done,none,won,stun
+
+sentences=
+The ___ is shining.
+Let's ___.
+This is ___.
+I have ___ left.
+That was ___.
+
+[SOUND_GROUP]
+id=-AR
+difficulty=easy
+words=car,star,far,jar,bar,scar,guitar,cigar,avatar,radar
+
+sentences=
+Drive the ___.
+Look at the ___.
+It is very ___.
+Open the ___.
+Play the ___.
+
+##################################################
+# HARD
+##################################################
+
+[SOUND_GROUP]
+id=-ECTION
+difficulty=hard
+words=section,direction,protection,connection,collection,reflection,correction,selection,inspection,perfection
+
+sentences=
+Read this ___.
+Choose one ___.
+The bridge needs ___.
+The internet ___ is slow.
+Practice makes ___.
+
+[SOUND_GROUP]
+id=-ATION
+difficulty=hard
+words=nation,station,vacation,education,information,conversation,imagination,celebration,operation,communication
+
+sentences=
+We are on ___.
+The train reached the ___.
+Good ___ is important.
+Thank you for the ___.
+Use your ___.
+
+[SOUND_GROUP]
+id=-ILITY
+difficulty=hard
+words=ability,stability,flexibility,responsibility,possibility,visibility,credibility,reliability,mobility,capability
+
+sentences=
+She has the ___.
+Safety brings ___.
+There is a ___.
+Improve your ___.
+The robot has great ___.
+
+[SOUND_GROUP]
+id=-TION
+difficulty=hard
+words=action,reaction,attraction,distraction,satisfaction,interaction,creation,invention,narration,translation
+
+sentences=
+Take quick ___.
+That was my ___.
+The movie needs ___.
+Read the ___.
+This is a great ___.
+
+[SOUND_GROUP]
+id=-ENCE
+difficulty=hard
+words=science,silence,confidence,difference,audience,evidence,influence,patience,presence,reference
+
+sentences=
+Study ___.
+Please keep ___.
+Have ___.
+Show the ___.
+Wait with ___.
+
+[SOUND_GROUP]
+id=-OUS
+difficulty=hard
+words=famous,dangerous,nervous,curious,generous,enormous,marvelous,fabulous,mysterious,ridiculous
+
+sentences=
+The actor is ___.
+Be careful, it is ___.
+I feel ___.
+Stay ___.
+That sounds ___.
+
+[SOUND_GROUP]
+id=-IVE
+difficulty=hard
+words=active,creative,attractive,positive,negative,competitive,effective,protective,productive,sensitive
+
+sentences=
+Stay ___.
+Think ___.
+Keep a ___ attitude.
+Be more ___.
+The helmet is ___.
+
+[SOUND_GROUP]
+id=-ATE
+difficulty=hard
+words=create,celebrate,translate,operate,concentrate,appreciate,investigate,decorate,graduate,communicate
+
+sentences=
+Let's ___.
+Please ___ this.
+We will ___ tonight.
+Can you ___?
+They will ___ soon.
+
+[SOUND_GROUP]
+id=-EAR
+difficulty=hard
+words=hear,fear,near,clear,dear,appear,disappear,engineer,volunteer,career
+
+sentences=
+Can you ___ me?
+Come ___.
+The water is ___.
+She wants a new ___.
+He became an ___.
+
+[SOUND_GROUP]
+id=-AIR
+difficulty=hard
+words=air,chair,hair,fair,pair,share,compare,prepare,repair,declare
+
+sentences=
+Sit on the ___.
+Brush your ___.
+Let's ___.
+Please ___ first.
+Time to ___.

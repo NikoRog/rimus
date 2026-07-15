@@ -1,32 +1,15 @@
-# Rimus Compact Entertainment Pack v3
+# Rimus Freestyle Content
 
-Drop-in file: `entertainmentCompact01.js` if your SE currently imports that name.
-Canonical file: `entertainmentCompact03.js`.
+Freestyle content is loaded from TXT packs listed in `freestyle-packs.json`.
 
-Format: `anchor_made_v1`
+Each pack uses repeated `PERSON` blocks:
 
-Top-level shape:
+- `NAME`
+- `CATEGORY`
+- `SNTC01`
+- `SNTC02`
+- `WORKS`
 
-```js
-pack.subjects.movies.george_lucas = {
-  name: "George Lucas",
-  fallback: { name: "Lucasfilm", target: "film", rhymes: [...] },
-  made: [
-    { name: "Star Wars", target: "Wars", rhymes: [...], fact: "..." }
-  ]
-}
-```
+The runtime treats `SNTC01` and `SNTC02` as separate cards. It does not generate or rewrite sentences.
 
-Rules intended for SE:
-
-- Facts are item-level fun facts.
-- Use item target/rhymes for forward sentence.
-- Use anchor target only if anchor has explicit rhymes; otherwise use fallback for backward layout.
-- Skip any item with fewer than 3 rhymes.
-- Verb repeat cap should be handled by SE.
-- Verbs belong to SE, not the pack.
-
-Subjects: movies, gaming, music.
-Anchors per subject: 10.
-Items per subject: 80.
-Total items: 240.
+Static browser builds cannot enumerate folders, so future TXT packs must be added to `freestyle-packs.json`.

@@ -1,0 +1,69 @@
+PERSON
+NAME=Shigeru Miyamoto
+CATEGORY=gaming_legends
+SNTC01=tape measure in his pocket to measure what's interesting
+SNTC02=cave explorer with a love for gardening
+WORKS=Super Mario|The Legend of Zelda|Donkey Kong|Pikmin
+
+PERSON
+NAME=Hideo Kojima
+CATEGORY=gaming_legends
+SNTC01=cinephile that breaks the fourth wall
+SNTC02=Konami missed his vision, he stood above them all
+WORKS=Metal Gear Solid|Death Stranding|Snatcher
+
+PERSON
+NAME=John Carmack
+CATEGORY=gaming_legends
+SNTC01=built rockets before joining the space race
+SNTC02=what if Doom was played in virtual space
+WORKS=Doom|Quake|Wolfenstein 3D
+
+PERSON
+NAME=Gabe Newell
+CATEGORY=gaming_legends
+SNTC01=Harvard and Microsoft started feeling stale
+SNTC02=oh Mr. Gaben, bless us with another sale
+WORKS=Half-Life|Portal|Counter-Strike|Steam
+
+PERSON
+NAME=Sid Meier
+CATEGORY=gaming_legends
+SNTC01=a Civilization anthem won a Grammy one day
+SNTC02=just... one... more... turn... is all they'd ever say
+WORKS=Civilization|Pirates!|Railroads!
+
+PERSON
+NAME=Markus "Notch" Persson
+CATEGORY=gaming_legends
+SNTC01=generations grew up with a Minecraft education
+SNTC02=kids still yearn for that miner fascination
+WORKS=Minecraft|Scrolls
+
+PERSON
+NAME=Masahiro Sakurai
+CATEGORY=gaming_legends
+SNTC01=teaching game design on the YouTube screen
+SNTC02=creator of Kirby at just nineteen
+WORKS=Kirby|Super Smash Bros.
+
+PERSON
+NAME=Will Wright
+CATEGORY=gaming_legends
+SNTC01=made people care about virtual toilets and traits
+SNTC02=from microbes to galaxies, evolution awaits
+WORKS=SimCity|The Sims|Spore
+
+PERSON
+NAME=Todd Howard
+CATEGORY=gaming_legends
+SNTC01=after finance school, he went to Bethesda knocking
+SNTC02=still keeps releasing Skyrim with no sign of stopping
+WORKS=Skyrim|Fallout 3|Oblivion|Starfield
+
+PERSON
+NAME=Hironobu Sakaguchi
+CATEGORY=gaming_legends
+SNTC01=fishing is his favorite peaceful tradition
+SNTC02=his "Final" Fantasy became gaming tradition
+WORKS=Final Fantasy|Fantasian
